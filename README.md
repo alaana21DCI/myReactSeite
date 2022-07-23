@@ -13,7 +13,7 @@
  - die Login- logout state / status ist im LocalStorage gespeichert, die kann mit Click auf Logout button gelöscht werden 
  - fetch methode ist benutzt in Home-komponent um die data von API zu abholen.
  
- ## die Seite ist handy- responsive !
+ ## die Seite ist responsive !
  
  
  
